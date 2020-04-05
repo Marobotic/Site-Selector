@@ -14,13 +14,13 @@ body {
 
 @font-face {
     font-family: ode;
-    src: url(/fonts/Ode.otf);
+    src: url(fonts/Ode.otf);
 }
 
 
 @font-face {
     font-family: ferrum;
-    src: url(/fonts/ferrum.otf);
+    src: url(fonts/ferrum.otf);
 }
 
 .left,
